@@ -1,0 +1,26 @@
+H1 {
+	color: BLUE;
+	
+}
+
+TABLE {
+	border-width: 10;
+	border-color: red
+}
+
+TD {
+	border-width: 10;
+	border-color: red
+}
+
+P  EM{
+	border-width: 10;
+	border-style: dotted;
+	border-color: red;
+	padding: 10px
+}
+
+TH {
+	border-width: 5;
+	border-color: yellow
+}

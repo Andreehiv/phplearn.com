@@ -1,0 +1,37 @@
+li {
+	list-style-type: none;
+	}
+li:before {
+	content:  "-";
+	}
+H1 {
+	color: blue;
+	}
+
+BODY {
+	color: black;
+	background-color: white;
+	padding: 300px;
+	}
+#man {
+	background-color: white;
+	color: black;
+	width: 400px;
+	height: auto;
+	align: center;
+	line-height: 0.3;
+	font-size: 100%;
+	padding: 0.5px;
+	padding-bottom: 10px;
+	}
+#man1 {
+	background-color: white;
+	color: black;
+	width: 120px;
+	height: auto;
+	align: center;
+	font-size: small;
+	}
+A {
+color: blue;
+	}
